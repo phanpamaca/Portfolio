@@ -10,7 +10,7 @@ This repository contains screen shots of the following projects:
 
 3. ERP_CRM Analytics - PowerBI	
 - Built end-to-end ERP/CRM data system simulating 300+ transactions across customers, products, and orders 
-- Designed relational data model and performed advanced analytics using SQL and Pandas 
+- Designed relational data model and performed advanced analytics using SQL and Pandas(Python) 
 - Developed Power BI dashboard with KPIs (Revenue, AOV, Customer Segmentation) improving data visibility 
 - Identified key revenue drivers, such as top customers contributing to majority of sales
 
