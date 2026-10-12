@@ -1,4 +1,4 @@
-This repository contains screen shots of the following projects:
+This repository contains screen shots from the following projects:
 1. Call_Center_Dashboard
 - Built an interactive Power BI dashboard analyzing call center performance data.
 - Developed DAX measures for SLA adherence, average handle time, and first call resolution. 
